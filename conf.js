@@ -53,8 +53,8 @@ jsproxy_config({
   /**
    * 默认节点
    */
-  node_default: 'mysite',
-  // node_default: /jsproxy-demo\.\w+$/.test(location.host) ? 'demo-hk' : 'mysite',
+  node_default: 'https://icy-forest-657e.nothingtomove.workers.dev',
+  // node_default: /jsproxy-demo\.\w+$/.test(location.host) ? 'demo-hk' : 'https://icy-forest-657e.nothingtomove.workers.dev',
 
   /**
    * 加速节点
